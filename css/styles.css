@@ -1,0 +1,80 @@
+header{
+    font-family: "Lora", serif;
+}
+body{
+    font-family: "Lora", serif;
+    background: #E0F0F5;
+}
+
+header{
+    height: 250px;
+    background-color: beige;
+    background-image: url('../img/Fotobanner.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.menu{
+    font-weight: 200;
+    font-size: 20px;
+    color: white;
+    text-align: center
+}
+
+h1 {
+    font-size: 50px;
+    display: inline-block;
+    text-align: center;
+    color:#104911;
+    letter-spacing: 10pt;
+    top: 50%;
+    left: 50%;
+}
+
+/**PRESENTACION**/
+
+.presentacion{
+    font-size: 20px;
+    text-align: center;
+}
+.imgredonda{
+    width:300px;
+    height:300px;
+    border-radius:150px;
+}
+.hipervinculo{
+    color: #104911;
+    text-decoration: none;
+}
+/**FIN PRESENTACION**/
+
+h2{
+    font-size: 25px;
+    background-color: #F9A620;
+    color: white;
+    text-align: left;
+}
+
+.items{
+    color: #548C2F;
+    font-weight: bold;
+    text-align: left;
+}
+
+/**FOOTER**/
+footer{
+    background-color: #548C2F;
+    height: 100px;
+    color: black;
+    text-align: center; 
+}
+i{
+    color: white;
+    font-size: 20px;
+}
